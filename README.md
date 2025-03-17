@@ -19,7 +19,6 @@ This repository provides various tools for open-source intelligence (OSINT) gath
 - `geolocation.py`: a geolocation
 
 
-_(Add all tools in this section as you add them to your repo.)_
 
 
 
